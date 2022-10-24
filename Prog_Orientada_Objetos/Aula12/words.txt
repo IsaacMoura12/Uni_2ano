@@ -1,0 +1,3 @@
+Ficheiro de teste para testar um programa java
+bom dia
+boa tarde
